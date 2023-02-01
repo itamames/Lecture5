@@ -116,7 +116,7 @@ Solution: For every node maintains a link to its previous node in the list too. 
 
 ## Doubly linked list
 
-![double LinkedList](images/doubly.png)
+![double LinkedList](images/Doubly.png)
 
 To add before: a new node containing x is spliced in between a node referenced by p and p.prev
 
@@ -259,7 +259,7 @@ The Collections that implements the Iterable interface must provide a method nam
 Think of an iterator as pointing between two elements:
 * Analogy: like the cursor in a word processor points between two characters 
 
-![Iterator](images/iterator.png)
+![Iterator](images/Iterator.png)
 
 ```java
 public static <AnyType> void print( Collection<AnyType> coll )
